@@ -1,0 +1,9 @@
+nodemodule
+package.json
+.env
+license.txt
+exports
+*.cache
+build
+.strapi-updater.json
+ecosystem.config.js
